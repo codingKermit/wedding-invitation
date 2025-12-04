@@ -56,7 +56,7 @@ const IndexPage = () => {
       <Quote />
       <CongratulatoryMoney />
       <Share />
-      <Footer
+      {/* <Footer
         style={{
           background: "#D7CCC8",
           backgroundImage: `url(${GroovePaper})`,
@@ -65,7 +65,7 @@ const IndexPage = () => {
         }}
       >
         Copyright © 2022 Shin Jooyoung
-      </Footer>
+      </Footer> */}
     </Wrapper>
   );
 };
